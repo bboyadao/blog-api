@@ -2,8 +2,8 @@
 - then go to `/rapidoc`
 
 - [ ] add justfile.
-- [ ] add dockerFile.
-- [ ] ignore git stuff
+- [x] add dockerFile.
+- [x] ignore git stuff
 
 ## Mainly
 ### DB 

@@ -1,5 +1,5 @@
 [package]
-name = "aarone_blog"
+name = "aaron_blog"
 version = "0.1.0"
 edition = "2021"
 
@@ -22,3 +22,6 @@ version = "^0.8.0-rc.2"
 git = "https://github.com/lawliet89/rocket_cors.git"
 rev = "54fae070"
 default-features = false
+
+[profile.release]
+strip = true

@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "aarone_blog"
+name = "aaron_blog"
 version = "0.1.0"
 dependencies = [
  "async-trait",
